@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/data_original
+/results/simulations_20210106.rds
+/R/code4syntheticdata/
