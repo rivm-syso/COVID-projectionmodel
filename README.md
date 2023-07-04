@@ -5,7 +5,7 @@
 
 # Introduction
 
-This repository contains the code used for data analysis and simulations leading to projections of COVID-19 ICU and hospital admissions, carried out by the Dutch National Institute for Public Health and the Environment (RIVM) on 6 January 2021. It is supplementary material with the publication "Projecting COVID-19 intensive care admissions in the Netherlands for policy advice: February 2020 to January 2021", by Klinkenberg et al (doi: XXX).
+This repository contains the code used for data analysis and simulations leading to projections of COVID-19 ICU and hospital admissions, carried out by the Dutch National Institute for Public Health and the Environment (RIVM) on 6 January 2021. It is supplementary material with the publication "Projecting COVID-19 intensive care admissions in the Netherlands for policy advice: February 2020 to January 2021", by Klinkenberg et al (https://doi.org/10.1101/2023.06.30.23291989).
 
 The code was originally used with the newest surveillance data, containing privacy-sensitive information on individual patient level. To let the code in this repository work, synthetic datasets have been created that approximately produce the same parameter estimates. To run the exact same simulations, the original parameter estimates have been provided as well.
 
