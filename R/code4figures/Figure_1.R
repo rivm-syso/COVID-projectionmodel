@@ -232,9 +232,4 @@ plot_grid(p1A, p1B, p1C, p1D, p1E, p1F,
 ggsave("results/Fig1.pdf", bg = "white", width = 20, height = 16, units = "cm")
 ggsave("results/Fig1.jpg", bg = "white", width = 20, height = 16, units = "cm", dpi = 600)
 
-plot_grid(p1A, p1B, p1C, p1D, p1E, p1F,
-          nrow = 3,
-          rel_widths = c(1, 0.8),
-          labels = c("a", "b", "c", "d", "e", "f"))
-ggsave("results/additionalresults/FigPoster1.jpg", bg = "white", width = 20, height = 12, units = "cm", dpi = 600)
 
